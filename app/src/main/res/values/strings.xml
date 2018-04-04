@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogUnlock</string>
+    <string name="action_clear_logs">Clear logs</string>
+</resources>
